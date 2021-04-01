@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "lvgl.h": "c",
+        "sdl.h": "c",
+        "stdio.h": "c",
+        "spectrum_1.h": "c",
+        "lv_demo_music_main.h": "c",
+        "lv_demo_music.h": "c",
+        "lv_demo_music_list.h": "c",
+        "lv_group.h": "c",
+        "lv_examples.h": "c",
+        "lv_demo_printer.h": "c",
+        "spectrum_3.h": "c",
+        "spectrum_2.h": "c"
+    }
+}
